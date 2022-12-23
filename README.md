@@ -2,4 +2,4 @@
 
 A simple website that displays my works, experiences, and a lot about me.
 
-<a href="https://kakaa2993.github.io/My-portfolio-website/">The Website linke </a>if you want to check it.
+You can check the website <a href="https://kakaa2993.github.io/My-portfolio-website/">here</a>.
